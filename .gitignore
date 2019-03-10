@@ -57,4 +57,4 @@ nvvm
 
 # Documentation Generated Files
 doxygen.config
-/doc/
+NVVM/doc/
